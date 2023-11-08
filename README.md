@@ -1,4 +1,4 @@
-## Bus Seat Booking Application:
+## Bus Ticket Booking Application:
 It was built using React, FastAPI, and MongoDB Compass typically involves multiple components and modules. You can organize your project into separate modules to keep your codebase maintainable and scalable. Here's a high-level overview of how you can structure your project:
 
 ## 1. Frontend Module (React):
