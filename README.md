@@ -37,7 +37,7 @@ It was built using React, FastAPI, and MongoDB Compass typically involves multip
 
    Generate API documentation using FastAPI's built-in features, such as auto-generated OpenAPI documentation.
 
-By organizing your project into these modules, you can maintain a clean and structured codebase, making it easier to develop, test, and scale your bus seat booking application using React, FastAPI, and MongoDB Compass.
+By organizing your project into these modules. You can maintain a clean and structured codebase, making it easier to develop, test, and scale your bus seat booking application using React, FastAPI, and MongoDB Compass.
 
 ![Screenshot (432)](https://github.com/Aswinsrini/Bus-ticket-booking-application-frontend/assets/93860076/8301bfbf-a921-4f19-a356-f24c6662586c)
 ![Screenshot (431)](https://github.com/Aswinsrini/Bus-ticket-booking-application-frontend/assets/93860076/1d192b9b-95c1-463e-b5c8-0b098635a9ef) 
